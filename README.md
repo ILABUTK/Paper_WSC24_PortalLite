@@ -1,2 +1,5 @@
 # Paper_WSC24_PortalLite
 WSC'24 Paper on PortalLite
+
+# Abstract
+This study delves into the feasibility and efficiency of the PortalLite system, an innovative maritime logistics concept designed to enhance accessibility to remote regions, reduce environmental impacts, and alleviate urban congestion through the use of a small distributed ports network. Through a combination of simulation and mathematical modeling, we evaluate the system's economic viability, operational efficiency, and environmental benefits under various scenarios. Our findings indicate that the PortalLite system can reduce overall logistical costs in urban areas with existing waterways under certain conditions. Furthermore, the analysis reveals that despite initial investment costs, the PortalLite system's long-term economic benefits can be significant, with a return on investment achievable within a relatively short period under optimal conditions. This research highlights the potential of the PortalLite system to provide sustainable, cost-efficient, and accessible transportation solutions, especially in areas currently underserved by traditional logistics models.
